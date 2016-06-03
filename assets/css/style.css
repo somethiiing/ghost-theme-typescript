@@ -494,8 +494,8 @@ body.menu-open .site-menu {
     position: absolute;
     top: 0;
     left: 50%;
-    margin-left: -80px;
-    width: 600px;
+    margin-left: -240px;
+    width: 500px;
     height: 82px;
     background: none;
     padding: 10px 0 12px
@@ -503,6 +503,10 @@ body.menu-open .site-menu {
 
 #header .logo p {
   font-size: 12px;
+  text-align: center;
+}
+
+#header .logo h1 {
   text-align: center;
 }
 
