@@ -495,10 +495,15 @@ body.menu-open .site-menu {
     top: 0;
     left: 50%;
     margin-left: -80px;
-    width: 160px;
+    width: 600px;
     height: 82px;
     background: none;
     padding: 10px 0 12px
+}
+
+#header .logo p {
+  font-size: 12px;
+  text-align: center;
 }
 
 @media (max-width: 820px) {
